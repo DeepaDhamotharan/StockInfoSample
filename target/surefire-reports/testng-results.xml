@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-13T11:27:05 IST" name="Multi-Browser Test Suite" finished-at="2025-05-13T11:27:13 IST" duration-ms="8333">
+  <suite started-at="2025-05-15T20:06:07 IST" name="Multi-Browser Test Suite" finished-at="2025-05-15T20:06:20 IST" duration-ms="12910">
     <groups>
     </groups>
-    <test started-at="2025-05-13T11:27:05 IST" name="Chrome Test" finished-at="2025-05-13T11:27:12 IST" duration-ms="7176">
+    <test started-at="2025-05-15T20:06:07 IST" name="Chrome Test" finished-at="2025-05-15T20:06:20 IST" duration-ms="12472">
       <class name="com.examples.tests.StockInfoTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@4c2cc639]" started-at="2025-05-13T11:27:05 IST" name="setUp" finished-at="2025-05-13T11:27:07 IST" duration-ms="2041" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@ccb4b1b]" started-at="2025-05-15T20:06:08 IST" name="setUp" finished-at="2025-05-15T20:06:16 IST" duration-ms="7781" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -16,40 +16,40 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@1e94b5e9]]>
+                <![CDATA[org.testng.TestRunner@2bfae94b]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@4c2cc639]" started-at="2025-05-13T11:27:07 IST" name="beforeMethod" finished-at="2025-05-13T11:27:07 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@ccb4b1b]" started-at="2025-05-15T20:06:16 IST" name="beforeMethod" finished-at="2025-05-15T20:06:16 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@1e94b5e9]]>
+                <![CDATA[org.testng.TestRunner@2bfae94b]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyStockInformationDisplay(org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@4c2cc639]" started-at="2025-05-13T11:27:07 IST" name="verifyStockInformationDisplay" finished-at="2025-05-13T11:27:11 IST" duration-ms="4554" status="PASS">
+        <test-method signature="verifyStockInformationDisplay(org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@ccb4b1b]" started-at="2025-05-15T20:06:16 IST" name="verifyStockInformationDisplay" finished-at="2025-05-15T20:06:20 IST" duration-ms="4113" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@1e94b5e9]]>
+                <![CDATA[org.testng.TestRunner@2bfae94b]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyStockInformationDisplay -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@4c2cc639]" started-at="2025-05-13T11:27:11 IST" name="tearDown" finished-at="2025-05-13T11:27:12 IST" duration-ms="322" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@ccb4b1b]" started-at="2025-05-15T20:06:20 IST" name="tearDown" finished-at="2025-05-15T20:06:20 IST" duration-ms="189" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@1e94b5e9]]>
+                <![CDATA[org.testng.TestRunner@2bfae94b]]>
               </value>
             </param>
           </params>
@@ -58,9 +58,9 @@
         </test-method> <!-- tearDown -->
       </class> <!-- com.examples.tests.StockInfoTest -->
     </test> <!-- Chrome Test -->
-    <test started-at="2025-05-13T11:27:05 IST" name="Edge Test" finished-at="2025-05-13T11:27:13 IST" duration-ms="8333">
+    <test started-at="2025-05-15T20:06:07 IST" name="Edge Test" finished-at="2025-05-15T20:06:20 IST" duration-ms="12909">
       <class name="com.examples.tests.StockInfoTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@aafcffa]" started-at="2025-05-13T11:27:05 IST" name="setUp" finished-at="2025-05-13T11:27:07 IST" duration-ms="2047" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@6955cb39]" started-at="2025-05-15T20:06:08 IST" name="setUp" finished-at="2025-05-15T20:06:11 IST" duration-ms="2929" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -69,40 +69,40 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@441958ef]]>
+                <![CDATA[org.testng.TestRunner@b5839d0]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@aafcffa]" started-at="2025-05-13T11:27:07 IST" name="beforeMethod" finished-at="2025-05-13T11:27:07 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@6955cb39]" started-at="2025-05-15T20:06:11 IST" name="beforeMethod" finished-at="2025-05-15T20:06:11 IST" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@441958ef]]>
+                <![CDATA[org.testng.TestRunner@b5839d0]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyStockInformationDisplay(org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@aafcffa]" started-at="2025-05-13T11:27:07 IST" name="verifyStockInformationDisplay" finished-at="2025-05-13T11:27:12 IST" duration-ms="4725" status="PASS">
+        <test-method signature="verifyStockInformationDisplay(org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@6955cb39]" started-at="2025-05-15T20:06:11 IST" name="verifyStockInformationDisplay" finished-at="2025-05-15T20:06:19 IST" duration-ms="7845" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@441958ef]]>
+                <![CDATA[org.testng.TestRunner@b5839d0]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyStockInformationDisplay -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@aafcffa]" started-at="2025-05-13T11:27:12 IST" name="tearDown" finished-at="2025-05-13T11:27:13 IST" duration-ms="1319" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:com.examples.tests.StockInfoTest@6955cb39]" started-at="2025-05-15T20:06:19 IST" name="tearDown" finished-at="2025-05-15T20:06:20 IST" duration-ms="1738" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@441958ef]]>
+                <![CDATA[org.testng.TestRunner@b5839d0]]>
               </value>
             </param>
           </params>
