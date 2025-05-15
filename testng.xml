@@ -1,0 +1,16 @@
+<suite name="Multi-Browser Test Suite" parallel="tests" thread-count="2">
+	<test name="Chrome Test">
+		<parameter name="browser" value="chrome"/>
+		<parameter name="stockSymbol" value="TATAMOTORS"/>
+		<classes>
+			<class name="com.examples.tests.StockInfoTest"/>
+		</classes>
+	</test>
+	<test name="Edge Test">
+		<parameter name="browser" value="edge"/>
+		<parameter name="stockSymbol" value="TATAMOTORS"/>
+		<classes>
+			<class name="com.examples.tests.StockInfoTest"/>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,70 @@
+15:57:30.054 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+15:57:30.054 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+15:57:33.232 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+15:57:33.232 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+15:57:33.273 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest -  Navigating to: https://www.nseindia.com
+15:57:33.273 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest -  Navigating to: https://www.nseindia.com
+15:57:39.555 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 week High: 1,179.00
+15:57:39.557 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 week Low: 535.75
+15:57:39.568 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down webdrier and browser.
+15:57:39.650 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 week High: 1,179.00
+15:57:39.651 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 week Low: 535.75
+15:57:39.655 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down webdrier and browser.
+15:57:39.905 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+15:57:41.063 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+15:59:29.681 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+15:59:29.681 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+15:59:32.091 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+15:59:32.127 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest -  Navigating to: https://www.nseindia.com
+15:59:32.181 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+15:59:32.184 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest -  Navigating to: https://www.nseindia.com
+15:59:37.039 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 week High: 1,179.00
+15:59:37.039 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 week Low: 535.75
+15:59:37.046 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down webdrier and browser.
+15:59:37.226 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 week High: 1,179.00
+15:59:37.226 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 week Low: 535.75
+15:59:37.230 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down webdrier and browser.
+15:59:37.430 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+15:59:38.390 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+11:22:41.920 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+11:22:41.920 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+11:22:44.639 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+11:22:44.664 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest -  Navigating to: https://www.nseindia.com
+11:22:46.240 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+11:22:46.246 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest -  Navigating to: https://www.nseindia.com
+11:22:50.928 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 week High: 1,179.00
+11:22:50.929 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 week Low: 535.75
+11:22:50.934 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down webdrier and browser.
+11:22:50.958 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 week High: 1,179.00
+11:22:50.959 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 week Low: 535.75
+11:22:50.962 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down webdrier and browser.
+11:22:51.205 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+11:22:52.434 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+11:25:11.382 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+11:25:11.382 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+11:25:13.496 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+11:25:13.512 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+11:25:13.521 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest -  Navigating to: https://www.nseindia.com
+11:25:13.521 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest -  Navigating to: https://www.nseindia.com
+11:25:17.456 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 week High: 1,179.00
+11:25:17.457 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 week Low: 535.75
+11:25:17.462 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down webdrier and browser.
+11:25:18.504 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 week High: 1,179.00
+11:25:18.504 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 week Low: 535.75
+11:25:18.506 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down webdrier and browser.
+11:25:18.672 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+11:25:18.794 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
+11:27:05.259 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: edge
+11:27:05.259 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Setting up WebDriver and browser: chrome
+11:27:07.283 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+11:27:07.290 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser launched and maximized.
+11:27:07.311 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest -  Navigating to: https://www.nseindia.com
+11:27:07.311 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest -  Navigating to: https://www.nseindia.com
+11:27:11.851 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 week High: 1,179.00
+11:27:11.852 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - 52 week Low: 535.75
+11:27:11.864 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Tearing down webdrier and browser.
+11:27:12.023 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 week High: 1,179.00
+11:27:12.023 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - 52 week Low: 535.75
+11:27:12.025 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Tearing down webdrier and browser.
+11:27:12.184 [TestNG-tests-1] INFO  com.examples.tests.StockInfoTest - Browser closed.
+11:27:13.342 [TestNG-tests-2] INFO  com.examples.tests.StockInfoTest - Browser closed.
